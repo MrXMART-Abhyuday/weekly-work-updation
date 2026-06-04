@@ -1,0 +1,18 @@
+class Solution {
+public:
+    int addDigits(int num) {
+        
+        
+         //3
+        // string finalans=s;// 3 8
+        while(num>9){
+            int ans=0;
+            while(num>0) {
+                ans+=num%10;
+                num/=10;
+            }
+            num=ans;
+        }
+    return num;
+    }
+};
