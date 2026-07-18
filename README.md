@@ -8,6 +8,7 @@ I am just new to coding and this repo is my display of my journey on working tow
 | [0682-baseball-game](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0682-baseball-game) |
 | [1505-create-target-array-in-the-given-order](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1505-create-target-array-in-the-given-order) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1656-count-good-triplets](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1656-count-good-triplets) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Math
 |  |
@@ -31,4 +32,8 @@ I am just new to coding and this repo is my display of my journey on working tow
 |  |
 | ------- |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+## Enumeration
+|  |
+| ------- |
+| [1656-count-good-triplets](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1656-count-good-triplets) |
 <!---LeetCode Topics End-->
