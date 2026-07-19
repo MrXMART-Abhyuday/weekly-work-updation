@@ -29,6 +29,7 @@ I am just new to coding and this repo is my display of my journey on working tow
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0316-remove-duplicate-letters) |
 | [0682-baseball-game](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0682-baseball-game) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 ## Simulation
 |  |
 | ------- |
@@ -54,6 +55,7 @@ I am just new to coding and this repo is my display of my journey on working tow
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0316-remove-duplicate-letters) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1683-maximum-number-of-coins-you-can-get) |
 ## Sorting
 |  |
@@ -67,8 +69,10 @@ I am just new to coding and this repo is my display of my journey on working tow
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0316-remove-duplicate-letters) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0316-remove-duplicate-letters) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
