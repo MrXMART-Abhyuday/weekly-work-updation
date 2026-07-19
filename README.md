@@ -27,6 +27,7 @@ I am just new to coding and this repo is my display of my journey on working tow
 ## Stack
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0316-remove-duplicate-letters) |
 | [0682-baseball-game](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0682-baseball-game) |
 ## Simulation
 |  |
@@ -52,6 +53,7 @@ I am just new to coding and this repo is my display of my journey on working tow
 ## Greedy
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0316-remove-duplicate-letters) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1683-maximum-number-of-coins-you-can-get) |
 ## Sorting
 |  |
@@ -61,4 +63,12 @@ I am just new to coding and this repo is my display of my journey on working tow
 |  |
 | ------- |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1683-maximum-number-of-coins-you-can-get) |
+## String
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0316-remove-duplicate-letters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0316-remove-duplicate-letters) |
 <!---LeetCode Topics End-->
