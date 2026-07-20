@@ -49,6 +49,7 @@ I am just new to coding and this repo is my display of my journey on working tow
 ## Hash Table
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0768-partition-labels) |
 | [1635-number-of-good-pairs](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1635-number-of-good-pairs) |
 ## Counting
 |  |
@@ -59,6 +60,7 @@ I am just new to coding and this repo is my display of my journey on working tow
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0316-remove-duplicate-letters) |
+| [0768-partition-labels](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0768-partition-labels) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1683-maximum-number-of-coins-you-can-get) |
 ## Sorting
@@ -76,6 +78,7 @@ I am just new to coding and this repo is my display of my journey on working tow
 | [0058-length-of-last-word](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0058-length-of-last-word) |
 | [0316-remove-duplicate-letters](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0316-remove-duplicate-letters) |
 | [0742-to-lower-case](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0742-to-lower-case) |
+| [0768-partition-labels](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0768-partition-labels) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
@@ -110,4 +113,8 @@ I am just new to coding and this repo is my display of my journey on working tow
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0783-search-in-a-binary-search-tree) |
+## Two Pointers
+|  |
+| ------- |
+| [0768-partition-labels](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0768-partition-labels) |
 <!---LeetCode Topics End-->
