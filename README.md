@@ -98,4 +98,16 @@ I am just new to coding and this repo is my display of my journey on working tow
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0022-generate-parentheses) |
+## Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0783-search-in-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0783-search-in-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
