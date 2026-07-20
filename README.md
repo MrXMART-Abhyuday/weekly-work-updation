@@ -13,6 +13,7 @@ I am just new to coding and this repo is my display of my journey on working tow
 | [1656-count-good-triplets](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1656-count-good-triplets) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [1983-maximum-population-year](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1983-maximum-population-year) |
 ## Math
 |  |
 | ------- |
@@ -53,6 +54,7 @@ I am just new to coding and this repo is my display of my journey on working tow
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1635-number-of-good-pairs) |
+| [1983-maximum-population-year](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1983-maximum-population-year) |
 ## Greedy
 |  |
 | ------- |
@@ -82,4 +84,8 @@ I am just new to coding and this repo is my display of my journey on working tow
 |  |
 | ------- |
 | [1386-shift-2d-grid](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1386-shift-2d-grid) |
+## Prefix Sum
+|  |
+| ------- |
+| [1983-maximum-population-year](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1983-maximum-population-year) |
 <!---LeetCode Topics End-->
