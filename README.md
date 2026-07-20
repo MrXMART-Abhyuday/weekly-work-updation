@@ -72,6 +72,7 @@ I am just new to coding and this repo is my display of my journey on working tow
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0058-length-of-last-word) |
 | [0316-remove-duplicate-letters](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0316-remove-duplicate-letters) |
 | [0742-to-lower-case](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0742-to-lower-case) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1159-smallest-subsequence-of-distinct-characters) |
