@@ -80,6 +80,7 @@ I am just new to coding and this repo is my display of my journey on working tow
 | [0742-to-lower-case](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0742-to-lower-case) |
 | [0768-partition-labels](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0768-partition-labels) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [1205-defanging-an-ip-address](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1205-defanging-an-ip-address) |
 ## Monotonic Stack
 |  |
 | ------- |
