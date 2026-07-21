@@ -128,16 +128,19 @@ I am just new to coding and this repo is my display of my journey on working tow
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0783-search-in-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0975-range-sum-of-bst) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0783-search-in-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0975-range-sum-of-bst) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0783-search-in-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0975-range-sum-of-bst) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -147,6 +150,7 @@ I am just new to coding and this repo is my display of my journey on working tow
 |  |
 | ------- |
 | [0975-range-sum-of-bst](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0975-range-sum-of-bst) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Queue
 |  |
 | ------- |
