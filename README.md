@@ -7,6 +7,7 @@ I am just new to coding and this repo is my display of my journey on working tow
 | ------- |
 | [0682-baseball-game](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0682-baseball-game) |
 | [1031-add-to-array-form-of-integer](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1031-add-to-array-form-of-integer) |
+| [1241-decompress-run-length-encoded-list](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1241-decompress-run-length-encoded-list) |
 | [1386-shift-2d-grid](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1386-shift-2d-grid) |
 | [1505-create-target-array-in-the-given-order](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1505-create-target-array-in-the-given-order) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1528-kids-with-the-greatest-number-of-candies) |
