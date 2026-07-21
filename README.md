@@ -124,17 +124,24 @@ I am just new to coding and this repo is my display of my journey on working tow
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0783-search-in-a-binary-search-tree) |
+| [0975-range-sum-of-bst](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0975-range-sum-of-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0783-search-in-a-binary-search-tree) |
+| [0975-range-sum-of-bst](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0975-range-sum-of-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0783-search-in-a-binary-search-tree) |
+| [0975-range-sum-of-bst](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0975-range-sum-of-bst) |
 ## Two Pointers
 |  |
 | ------- |
 | [0768-partition-labels](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0768-partition-labels) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/4242-sum-of-gcd-of-formed-pairs) |
+## Depth-First Search
+|  |
+| ------- |
+| [0975-range-sum-of-bst](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0975-range-sum-of-bst) |
 <!---LeetCode Topics End-->
