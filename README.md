@@ -52,6 +52,7 @@ I am just new to coding and this repo is my display of my journey on working tow
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1656-count-good-triplets) |
+| [3805-maximize-active-section-with-trade-i](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3805-maximize-active-section-with-trade-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -92,6 +93,7 @@ I am just new to coding and this repo is my display of my journey on working tow
 | [1205-defanging-an-ip-address](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1205-defanging-an-ip-address) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1651-shuffle-string](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1651-shuffle-string) |
+| [3805-maximize-active-section-with-trade-i](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3805-maximize-active-section-with-trade-i) |
 ## Monotonic Stack
 |  |
 | ------- |
