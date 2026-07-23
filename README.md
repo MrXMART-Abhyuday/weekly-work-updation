@@ -13,6 +13,7 @@ I am just new to coding and this repo is my display of my journey on working tow
 | [1395-minimum-time-visiting-all-points](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1395-minimum-time-visiting-all-points) |
 | [1505-create-target-array-in-the-given-order](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1505-create-target-array-in-the-given-order) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1603-running-sum-of-1d-array](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1635-number-of-good-pairs) |
 | [1651-shuffle-string](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1651-shuffle-string) |
 | [1656-count-good-triplets](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1656-count-good-triplets) |
@@ -125,6 +126,7 @@ I am just new to coding and this repo is my display of my journey on working tow
 ## Prefix Sum
 |  |
 | ------- |
+| [1603-running-sum-of-1d-array](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1603-running-sum-of-1d-array) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1983-maximum-population-year](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1983-maximum-population-year) |
 ## Dynamic Programming
