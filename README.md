@@ -38,12 +38,14 @@ I am just new to coding and this repo is my display of my journey on working tow
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3824-number-of-unique-xor-triplets-i) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Stack
 |  |
@@ -59,6 +61,7 @@ I am just new to coding and this repo is my display of my journey on working tow
 | [0987-reveal-cards-in-increasing-order](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1386-shift-2d-grid](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1386-shift-2d-grid) |
 | [1505-create-target-array-in-the-given-order](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1505-create-target-array-in-the-given-order) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
 |  |
@@ -113,6 +116,7 @@ I am just new to coding and this repo is my display of my journey on working tow
 | [1205-defanging-an-ip-address](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1205-defanging-an-ip-address) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1651-shuffle-string](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1651-shuffle-string) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3804-maximize-active-section-with-trade-ii](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3804-maximize-active-section-with-trade-ii) |
 | [3805-maximize-active-section-with-trade-i](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3805-maximize-active-section-with-trade-i) |
 ## Monotonic Stack
@@ -180,4 +184,8 @@ I am just new to coding and this repo is my display of my journey on working tow
 |  |
 | ------- |
 | [3804-maximize-active-section-with-trade-ii](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3804-maximize-active-section-with-trade-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->
