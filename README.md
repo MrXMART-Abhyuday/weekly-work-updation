@@ -24,6 +24,7 @@ I am just new to coding and this repo is my display of my journey on working tow
 | [1983-maximum-population-year](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1983-maximum-population-year) |
 | [2048-build-array-from-permutation](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/2048-build-array-from-permutation) |
 | [3804-maximize-active-section-with-trade-ii](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3804-maximize-active-section-with-trade-ii) |
+| [3820-number-of-unique-xor-triplets-ii](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3824-number-of-unique-xor-triplets-i) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Math
@@ -41,6 +42,7 @@ I am just new to coding and this repo is my display of my journey on working tow
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2556-convert-the-temperature](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/2556-convert-the-temperature) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3820-number-of-unique-xor-triplets-ii](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3824-number-of-unique-xor-triplets-i) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
@@ -71,12 +73,14 @@ I am just new to coding and this repo is my display of my journey on working tow
 | ------- |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1610-xor-operation-in-an-array) |
+| [3820-number-of-unique-xor-triplets-ii](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3824-number-of-unique-xor-triplets-i) |
 ## Enumeration
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1656-count-good-triplets) |
 | [3805-maximize-active-section-with-trade-i](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3805-maximize-active-section-with-trade-i) |
+| [3820-number-of-unique-xor-triplets-ii](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3820-number-of-unique-xor-triplets-ii) |
 ## Hash Table
 |  |
 | ------- |
