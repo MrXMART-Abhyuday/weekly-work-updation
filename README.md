@@ -55,6 +55,7 @@ I am just new to coding and this repo is my display of my journey on working tow
 ## Stack
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0316-remove-duplicate-letters) |
 | [0682-baseball-game](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0682-baseball-game) |
 | [1078-remove-outermost-parentheses](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1078-remove-outermost-parentheses) |
@@ -185,6 +186,7 @@ I am just new to coding and this repo is my display of my journey on working tow
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0232-implement-queue-using-stacks) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0987-reveal-cards-in-increasing-order) |
 ## Geometry
 |  |
@@ -198,4 +200,8 @@ I am just new to coding and this repo is my display of my journey on working tow
 |  |
 | ------- |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
