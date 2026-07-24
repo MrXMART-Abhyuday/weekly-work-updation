@@ -28,6 +28,7 @@ I am just new to coding and this repo is my display of my journey on working tow
 | [3804-maximize-active-section-with-trade-ii](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3804-maximize-active-section-with-trade-ii) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3824-number-of-unique-xor-triplets-i) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
@@ -47,6 +48,7 @@ I am just new to coding and this repo is my display of my journey on working tow
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3824-number-of-unique-xor-triplets-i) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
