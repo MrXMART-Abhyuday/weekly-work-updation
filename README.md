@@ -94,6 +94,7 @@ I am just new to coding and this repo is my display of my journey on working tow
 ## Hash Table
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0768-partition-labels) |
 | [1635-number-of-good-pairs](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1635-number-of-good-pairs) |
 ## Counting
@@ -130,6 +131,7 @@ I am just new to coding and this repo is my display of my journey on working tow
 | [0022-generate-parentheses](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0058-length-of-last-word) |
 | [0316-remove-duplicate-letters](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0316-remove-duplicate-letters) |
+| [0567-permutation-in-string](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0567-permutation-in-string) |
 | [0742-to-lower-case](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0742-to-lower-case) |
 | [0768-partition-labels](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0768-partition-labels) |
 | [1078-remove-outermost-parentheses](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1078-remove-outermost-parentheses) |
@@ -187,6 +189,7 @@ I am just new to coding and this repo is my display of my journey on working tow
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0016-3sum-closest) |
+| [0567-permutation-in-string](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0768-partition-labels) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Depth-First Search
@@ -219,4 +222,8 @@ I am just new to coding and this repo is my display of my journey on working tow
 |  |
 | ------- |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
