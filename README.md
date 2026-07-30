@@ -28,6 +28,7 @@ I am just new to coding and this repo is my display of my journey on working tow
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1983-maximum-population-year](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1983-maximum-population-year) |
 | [2048-build-array-from-permutation](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/2048-build-array-from-permutation) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3804-maximize-active-section-with-trade-ii](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3804-maximize-active-section-with-trade-ii) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3820-number-of-unique-xor-triplets-ii) |
@@ -84,6 +85,7 @@ I am just new to coding and this repo is my display of my journey on working tow
 | [1386-shift-2d-grid](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1386-shift-2d-grid) |
 | [1505-create-target-array-in-the-given-order](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1505-create-target-array-in-the-given-order) |
 | [2048-build-array-from-permutation](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/2048-build-array-from-permutation) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3447-clear-digits](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3447-clear-digits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/4242-sum-of-gcd-of-formed-pairs) |
@@ -159,6 +161,7 @@ I am just new to coding and this repo is my display of my journey on working tow
 | [1651-shuffle-string](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1651-shuffle-string) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2128-reverse-prefix-of-word](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/2128-reverse-prefix-of-word) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3379-score-of-a-string](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3379-score-of-a-string) |
 | [3447-clear-digits](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3447-clear-digits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
