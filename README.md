@@ -59,6 +59,7 @@ I am just new to coding and this repo is my display of my journey on working tow
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3859-maximum-product-of-two-digits](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3859-maximum-product-of-two-digits) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/4242-sum-of-gcd-of-formed-pairs) |
+| [4275-traffic-signal-color](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/4275-traffic-signal-color) |
 ## Number Theory
 |  |
 | ------- |
@@ -85,6 +86,7 @@ I am just new to coding and this repo is my display of my journey on working tow
 | [3447-clear-digits](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3447-clear-digits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/4242-sum-of-gcd-of-formed-pairs) |
+| [4275-traffic-signal-color](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/4275-traffic-signal-color) |
 | [4299-concatenate-array-with-reverse](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/4299-concatenate-array-with-reverse) |
 ## Bit Manipulation
 |  |
@@ -160,6 +162,7 @@ I am just new to coding and this repo is my display of my journey on working tow
 | [3805-maximize-active-section-with-trade-i](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3805-maximize-active-section-with-trade-i) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3813-smallest-palindromic-rearrangement-ii) |
+| [4275-traffic-signal-color](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/4275-traffic-signal-color) |
 ## Monotonic Stack
 |  |
 | ------- |
