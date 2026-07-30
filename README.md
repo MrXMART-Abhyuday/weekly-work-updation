@@ -73,6 +73,7 @@ I am just new to coding and this repo is my display of my journey on working tow
 | [0682-baseball-game](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0682-baseball-game) |
 | [1078-remove-outermost-parentheses](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1078-remove-outermost-parentheses) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [3447-clear-digits](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3447-clear-digits) |
 ## Simulation
 |  |
 | ------- |
@@ -81,6 +82,7 @@ I am just new to coding and this repo is my display of my journey on working tow
 | [1386-shift-2d-grid](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1386-shift-2d-grid) |
 | [1505-create-target-array-in-the-given-order](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1505-create-target-array-in-the-given-order) |
 | [2048-build-array-from-permutation](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/2048-build-array-from-permutation) |
+| [3447-clear-digits](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3447-clear-digits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 | [4299-concatenate-array-with-reverse](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/4299-concatenate-array-with-reverse) |
@@ -152,6 +154,7 @@ I am just new to coding and this repo is my display of my journey on working tow
 | [1341-split-a-string-in-balanced-strings](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1651-shuffle-string](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1651-shuffle-string) |
 | [3379-score-of-a-string](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3379-score-of-a-string) |
+| [3447-clear-digits](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3447-clear-digits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3804-maximize-active-section-with-trade-ii](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3804-maximize-active-section-with-trade-ii) |
 | [3805-maximize-active-section-with-trade-i](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3805-maximize-active-section-with-trade-i) |
