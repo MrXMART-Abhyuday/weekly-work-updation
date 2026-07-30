@@ -74,6 +74,7 @@ I am just new to coding and this repo is my display of my journey on working tow
 | [0682-baseball-game](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0682-baseball-game) |
 | [1078-remove-outermost-parentheses](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1078-remove-outermost-parentheses) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [2128-reverse-prefix-of-word](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/2128-reverse-prefix-of-word) |
 | [3447-clear-digits](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3447-clear-digits) |
 ## Simulation
 |  |
@@ -155,6 +156,7 @@ I am just new to coding and this repo is my display of my journey on working tow
 | [1205-defanging-an-ip-address](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1205-defanging-an-ip-address) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1651-shuffle-string](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1651-shuffle-string) |
+| [2128-reverse-prefix-of-word](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/2128-reverse-prefix-of-word) |
 | [3379-score-of-a-string](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3379-score-of-a-string) |
 | [3447-clear-digits](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3447-clear-digits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -212,6 +214,7 @@ I am just new to coding and this repo is my display of my journey on working tow
 | [0016-3sum-closest](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0016-3sum-closest) |
 | [0567-permutation-in-string](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0768-partition-labels) |
+| [2128-reverse-prefix-of-word](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/2128-reverse-prefix-of-word) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Depth-First Search
 |  |
