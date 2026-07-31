@@ -28,6 +28,7 @@ I am just new to coding and this repo is my display of my journey on working tow
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1983-maximum-population-year](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1983-maximum-population-year) |
 | [2048-build-array-from-permutation](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/2048-build-array-from-permutation) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3804-maximize-active-section-with-trade-ii](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3804-maximize-active-section-with-trade-ii) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3820-number-of-unique-xor-triplets-ii) |
@@ -59,6 +60,7 @@ I am just new to coding and this repo is my display of my journey on working tow
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3859-maximum-product-of-two-digits](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3859-maximum-product-of-two-digits) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/4242-sum-of-gcd-of-formed-pairs) |
+| [4275-traffic-signal-color](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/4275-traffic-signal-color) |
 ## Number Theory
 |  |
 | ------- |
@@ -73,6 +75,8 @@ I am just new to coding and this repo is my display of my journey on working tow
 | [0682-baseball-game](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0682-baseball-game) |
 | [1078-remove-outermost-parentheses](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1078-remove-outermost-parentheses) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [2128-reverse-prefix-of-word](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/2128-reverse-prefix-of-word) |
+| [3447-clear-digits](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3447-clear-digits) |
 ## Simulation
 |  |
 | ------- |
@@ -81,8 +85,11 @@ I am just new to coding and this repo is my display of my journey on working tow
 | [1386-shift-2d-grid](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1386-shift-2d-grid) |
 | [1505-create-target-array-in-the-given-order](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1505-create-target-array-in-the-given-order) |
 | [2048-build-array-from-permutation](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/2048-build-array-from-permutation) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [3447-clear-digits](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3447-clear-digits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/4242-sum-of-gcd-of-formed-pairs) |
+| [4275-traffic-signal-color](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/4275-traffic-signal-color) |
 | [4299-concatenate-array-with-reverse](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/4299-concatenate-array-with-reverse) |
 ## Bit Manipulation
 |  |
@@ -104,6 +111,7 @@ I am just new to coding and this repo is my display of my journey on working tow
 | [0567-permutation-in-string](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0768-partition-labels) |
 | [1635-number-of-good-pairs](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1635-number-of-good-pairs) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3813-smallest-palindromic-rearrangement-ii) |
 ## Counting
 |  |
@@ -111,6 +119,7 @@ I am just new to coding and this repo is my display of my journey on working tow
 | [1341-split-a-string-in-balanced-strings](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1635-number-of-good-pairs](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1635-number-of-good-pairs) |
 | [1983-maximum-population-year](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1983-maximum-population-year) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3813-smallest-palindromic-rearrangement-ii) |
 ## Greedy
 |  |
@@ -120,6 +129,8 @@ I am just new to coding and this repo is my display of my journey on working tow
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -129,6 +140,7 @@ I am just new to coding and this repo is my display of my journey on working tow
 | [0987-reveal-cards-in-increasing-order](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [3859-maximum-product-of-two-digits](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3859-maximum-product-of-two-digits) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/4242-sum-of-gcd-of-formed-pairs) |
@@ -151,11 +163,18 @@ I am just new to coding and this repo is my display of my journey on working tow
 | [1205-defanging-an-ip-address](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1205-defanging-an-ip-address) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1651-shuffle-string](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1651-shuffle-string) |
+| [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [2128-reverse-prefix-of-word](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/2128-reverse-prefix-of-word) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3379-score-of-a-string](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3379-score-of-a-string) |
+| [3447-clear-digits](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3447-clear-digits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3804-maximize-active-section-with-trade-ii](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3804-maximize-active-section-with-trade-ii) |
 | [3805-maximize-active-section-with-trade-i](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3805-maximize-active-section-with-trade-i) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3813-smallest-palindromic-rearrangement-ii) |
+| [4275-traffic-signal-color](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/4275-traffic-signal-color) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -205,6 +224,7 @@ I am just new to coding and this repo is my display of my journey on working tow
 | [0016-3sum-closest](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0016-3sum-closest) |
 | [0567-permutation-in-string](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0768-partition-labels) |
+| [2128-reverse-prefix-of-word](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/2128-reverse-prefix-of-word) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Depth-First Search
 |  |
