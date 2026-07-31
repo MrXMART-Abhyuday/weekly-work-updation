@@ -6,6 +6,7 @@ I am just new to coding and this repo is my display of my journey on working tow
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0016-3sum-closest) |
+| [0039-combination-sum](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0049-group-anagrams) |
 | [0239-sliding-window-maximum](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0239-sliding-window-maximum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0628-maximum-product-of-three-numbers) |
@@ -200,6 +201,7 @@ I am just new to coding and this repo is my display of my journey on working tow
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0039-combination-sum) |
 ## Tree
 |  |
 | ------- |
