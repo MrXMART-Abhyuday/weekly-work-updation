@@ -151,6 +151,7 @@ I am just new to coding and this repo is my display of my journey on working tow
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0006-zigzag-conversion) |
 | [0022-generate-parentheses](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0058-length-of-last-word) |
