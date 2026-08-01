@@ -6,8 +6,10 @@ I am just new to coding and this repo is my display of my journey on working tow
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0016-3sum-closest) |
+| [0039-combination-sum](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0049-group-anagrams) |
 | [0239-sliding-window-maximum](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0239-sliding-window-maximum) |
+| [0486-predict-the-winner](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0682-baseball-game) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0987-reveal-cards-in-increasing-order) |
@@ -40,6 +42,7 @@ I am just new to coding and this repo is my display of my journey on working tow
 ## Math
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0628-maximum-product-of-three-numbers) |
 | [1031-add-to-array-form-of-integer](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1031-add-to-array-form-of-integer) |
 | [1395-minimum-time-visiting-all-points](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1395-minimum-time-visiting-all-points) |
@@ -147,10 +150,12 @@ I am just new to coding and this repo is my display of my journey on working tow
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0486-predict-the-winner) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1683-maximum-number-of-coins-you-can-get) |
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0006-zigzag-conversion) |
 | [0022-generate-parentheses](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0058-length-of-last-word) |
@@ -195,10 +200,12 @@ I am just new to coding and this repo is my display of my journey on working tow
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0022-generate-parentheses) |
+| [0486-predict-the-winner](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0486-predict-the-winner) |
 ## Backtracking
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0039-combination-sum) |
 ## Tree
 |  |
 | ------- |
@@ -272,4 +279,8 @@ I am just new to coding and this repo is my display of my journey on working tow
 |  |
 | ------- |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3812-smallest-palindromic-rearrangement-i) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
