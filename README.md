@@ -16,6 +16,7 @@ I am just new to coding and this repo is my display of my journey on working tow
 | [0987-reveal-cards-in-increasing-order](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1031-add-to-array-form-of-integer](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1031-add-to-array-form-of-integer) |
 | [1241-decompress-run-length-encoded-list](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1241-decompress-run-length-encoded-list) |
+| [1319-unique-number-of-occurrences](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1319-unique-number-of-occurrences) |
 | [1386-shift-2d-grid](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1386-shift-2d-grid) |
 | [1395-minimum-time-visiting-all-points](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1395-minimum-time-visiting-all-points) |
 | [1480-running-sum-of-1d-array](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1480-running-sum-of-1d-array) |
@@ -115,6 +116,7 @@ I am just new to coding and this repo is my display of my journey on working tow
 | [0049-group-anagrams](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0049-group-anagrams) |
 | [0567-permutation-in-string](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0768-partition-labels) |
+| [1319-unique-number-of-occurrences](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1319-unique-number-of-occurrences) |
 | [1635-number-of-good-pairs](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1635-number-of-good-pairs) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3813-smallest-palindromic-rearrangement-ii) |
