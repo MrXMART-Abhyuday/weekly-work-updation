@@ -40,6 +40,7 @@ I am just new to coding and this repo is my display of my journey on working tow
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3824-number-of-unique-xor-triplets-i) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [4107-find-missing-elements](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/4107-find-missing-elements) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 | [4290-valid-elements-in-an-array](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/4290-valid-elements-in-an-array) |
 | [4299-concatenate-array-with-reverse](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/4299-concatenate-array-with-reverse) |
@@ -123,6 +124,7 @@ I am just new to coding and this repo is my display of my journey on working tow
 | [1635-number-of-good-pairs](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1635-number-of-good-pairs) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3813-smallest-palindromic-rearrangement-ii) |
+| [4107-find-missing-elements](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/4107-find-missing-elements) |
 ## Counting
 |  |
 | ------- |
@@ -154,6 +156,7 @@ I am just new to coding and this repo is my display of my journey on working tow
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [3859-maximum-product-of-two-digits](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3859-maximum-product-of-two-digits) |
+| [4107-find-missing-elements](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/4107-find-missing-elements) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Game Theory
 |  |
