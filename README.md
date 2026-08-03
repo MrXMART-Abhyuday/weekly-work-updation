@@ -22,6 +22,7 @@ I am just new to coding and this repo is my display of my journey on working tow
 | [1395-minimum-time-visiting-all-points](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1395-minimum-time-visiting-all-points) |
 | [1480-running-sum-of-1d-array](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1480-running-sum-of-1d-array) |
 | [1505-create-target-array-in-the-given-order](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1505-create-target-array-in-the-given-order) |
+| [1522-stone-game-iii](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1522-stone-game-iii) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1603-running-sum-of-1d-array) |
@@ -52,6 +53,7 @@ I am just new to coding and this repo is my display of my journey on working tow
 | [1395-minimum-time-visiting-all-points](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1395-minimum-time-visiting-all-points) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1522-stone-game-iii](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1522-stone-game-iii) |
 | [1610-xor-operation-in-an-array](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1610-xor-operation-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1635-number-of-good-pairs) |
 | [1674-minimum-operations-to-make-array-equal](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1674-minimum-operations-to-make-array-equal) |
@@ -158,6 +160,7 @@ I am just new to coding and this repo is my display of my journey on working tow
 | ------- |
 | [0486-predict-the-winner](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0486-predict-the-winner) |
 | [0909-stone-game](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0909-stone-game) |
+| [1522-stone-game-iii](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1522-stone-game-iii) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1683-maximum-number-of-coins-you-can-get) |
 ## String
 |  |
@@ -209,6 +212,7 @@ I am just new to coding and this repo is my display of my journey on working tow
 | [0022-generate-parentheses](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0022-generate-parentheses) |
 | [0486-predict-the-winner](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0486-predict-the-winner) |
 | [0909-stone-game](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0909-stone-game) |
+| [1522-stone-game-iii](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1522-stone-game-iii) |
 ## Backtracking
 |  |
 | ------- |
