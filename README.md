@@ -8,18 +8,22 @@ I am just new to coding and this repo is my display of my journey on working tow
 | [0016-3sum-closest](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0016-3sum-closest) |
 | [0039-combination-sum](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0049-group-anagrams) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0239-sliding-window-maximum](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0239-sliding-window-maximum) |
 | [0486-predict-the-winner](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0486-predict-the-winner) |
+| [0605-can-place-flowers](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0682-baseball-game) |
 | [0909-stone-game](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0909-stone-game) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1031-add-to-array-form-of-integer](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1031-add-to-array-form-of-integer) |
 | [1241-decompress-run-length-encoded-list](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1241-decompress-run-length-encoded-list) |
+| [1319-unique-number-of-occurrences](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1319-unique-number-of-occurrences) |
 | [1386-shift-2d-grid](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1386-shift-2d-grid) |
 | [1395-minimum-time-visiting-all-points](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1395-minimum-time-visiting-all-points) |
 | [1480-running-sum-of-1d-array](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1480-running-sum-of-1d-array) |
 | [1505-create-target-array-in-the-given-order](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1505-create-target-array-in-the-given-order) |
+| [1522-stone-game-iii](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1522-stone-game-iii) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1603-running-sum-of-1d-array) |
@@ -37,6 +41,8 @@ I am just new to coding and this repo is my display of my journey on working tow
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3820-number-of-unique-xor-triplets-ii) |
 | [3824-number-of-unique-xor-triplets-i](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3824-number-of-unique-xor-triplets-i) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [4107-find-missing-elements](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/4107-find-missing-elements) |
+| [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 | [4290-valid-elements-in-an-array](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/4290-valid-elements-in-an-array) |
 | [4299-concatenate-array-with-reverse](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/4299-concatenate-array-with-reverse) |
@@ -50,6 +56,7 @@ I am just new to coding and this repo is my display of my journey on working tow
 | [1395-minimum-time-visiting-all-points](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1395-minimum-time-visiting-all-points) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1522-stone-game-iii](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1522-stone-game-iii) |
 | [1610-xor-operation-in-an-array](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1610-xor-operation-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1635-number-of-good-pairs) |
 | [1674-minimum-operations-to-make-array-equal](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1674-minimum-operations-to-make-array-equal) |
@@ -115,9 +122,12 @@ I am just new to coding and this repo is my display of my journey on working tow
 | [0049-group-anagrams](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0049-group-anagrams) |
 | [0567-permutation-in-string](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0768-partition-labels) |
+| [1319-unique-number-of-occurrences](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1319-unique-number-of-occurrences) |
 | [1635-number-of-good-pairs](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1635-number-of-good-pairs) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3813-smallest-palindromic-rearrangement-ii) |
+| [4107-find-missing-elements](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/4107-find-missing-elements) |
+| [4119-minimum-distance-between-three-equal-elements-ii](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/4119-minimum-distance-between-three-equal-elements-ii) |
 ## Counting
 |  |
 | ------- |
@@ -130,6 +140,7 @@ I am just new to coding and this repo is my display of my journey on working tow
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0316-remove-duplicate-letters) |
+| [0605-can-place-flowers](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0605-can-place-flowers) |
 | [0768-partition-labels](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0768-partition-labels) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1341-split-a-string-in-balanced-strings) |
@@ -148,12 +159,14 @@ I am just new to coding and this repo is my display of my journey on working tow
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3812-smallest-palindromic-rearrangement-i](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3812-smallest-palindromic-rearrangement-i) |
 | [3859-maximum-product-of-two-digits](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3859-maximum-product-of-two-digits) |
+| [4107-find-missing-elements](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/4107-find-missing-elements) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Game Theory
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0486-predict-the-winner) |
 | [0909-stone-game](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0909-stone-game) |
+| [1522-stone-game-iii](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1522-stone-game-iii) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1683-maximum-number-of-coins-you-can-get) |
 ## String
 |  |
@@ -203,8 +216,10 @@ I am just new to coding and this repo is my display of my journey on working tow
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0022-generate-parentheses) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0486-predict-the-winner) |
 | [0909-stone-game](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0909-stone-game) |
+| [1522-stone-game-iii](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1522-stone-game-iii) |
 ## Backtracking
 |  |
 | ------- |
