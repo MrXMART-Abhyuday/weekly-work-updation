@@ -8,6 +8,7 @@ I am just new to coding and this repo is my display of my journey on working tow
 | [0016-3sum-closest](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0016-3sum-closest) |
 | [0039-combination-sum](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0049-group-anagrams) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0239-sliding-window-maximum](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0239-sliding-window-maximum) |
 | [0486-predict-the-winner](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0486-predict-the-winner) |
 | [0605-can-place-flowers](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0605-can-place-flowers) |
@@ -215,6 +216,7 @@ I am just new to coding and this repo is my display of my journey on working tow
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0022-generate-parentheses) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0486-predict-the-winner) |
 | [0909-stone-game](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0909-stone-game) |
 | [1522-stone-game-iii](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1522-stone-game-iii) |
