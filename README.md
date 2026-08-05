@@ -257,6 +257,7 @@ I am just new to coding and this repo is my display of my journey on working tow
 | ------- |
 | [0975-range-sum-of-bst](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0975-range-sum-of-bst) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [3561-remove-methods-from-project](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3561-remove-methods-from-project) |
 ## Queue
 |  |
 | ------- |
@@ -302,4 +303,12 @@ I am just new to coding and this repo is my display of my journey on working tow
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0486-predict-the-winner) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3561-remove-methods-from-project](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3561-remove-methods-from-project) |
+## Graph Theory
+|  |
+| ------- |
+| [3561-remove-methods-from-project](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3561-remove-methods-from-project) |
 <!---LeetCode Topics End-->
