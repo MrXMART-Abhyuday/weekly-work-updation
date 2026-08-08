@@ -66,6 +66,7 @@ I am just new to coding and this repo is my display of my journey on working tow
 | [2556-convert-the-temperature](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/2556-convert-the-temperature) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3626-smallest-divisible-digit-product-i) |
+| [3635-smallest-divisible-digit-product-ii](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3635-smallest-divisible-digit-product-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3813-smallest-palindromic-rearrangement-ii) |
 | [3820-number-of-unique-xor-triplets-ii](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3820-number-of-unique-xor-triplets-ii) |
@@ -78,6 +79,7 @@ I am just new to coding and this repo is my display of my journey on working tow
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3635-smallest-divisible-digit-product-ii](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3635-smallest-divisible-digit-product-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/4242-sum-of-gcd-of-formed-pairs) |
 ## Stack
@@ -149,6 +151,7 @@ I am just new to coding and this repo is my display of my journey on working tow
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3635-smallest-divisible-digit-product-ii](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3635-smallest-divisible-digit-product-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -192,6 +195,7 @@ I am just new to coding and this repo is my display of my journey on working tow
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3379-score-of-a-string](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3379-score-of-a-string) |
 | [3447-clear-digits](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3447-clear-digits) |
+| [3635-smallest-divisible-digit-product-ii](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3635-smallest-divisible-digit-product-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3804-maximize-active-section-with-trade-ii](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3804-maximize-active-section-with-trade-ii) |
 | [3805-maximize-active-section-with-trade-i](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3805-maximize-active-section-with-trade-i) |
@@ -227,6 +231,7 @@ I am just new to coding and this repo is my display of my journey on working tow
 | ------- |
 | [0022-generate-parentheses](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0039-combination-sum) |
+| [3635-smallest-divisible-digit-product-ii](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3635-smallest-divisible-digit-product-ii) |
 ## Tree
 |  |
 | ------- |
