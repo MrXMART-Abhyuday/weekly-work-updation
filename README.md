@@ -68,6 +68,7 @@ I am just new to coding and this repo is my display of my journey on working tow
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2556-convert-the-temperature](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/2556-convert-the-temperature) |
+| [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3635-smallest-divisible-digit-product-ii](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3635-smallest-divisible-digit-product-ii) |
@@ -83,6 +84,7 @@ I am just new to coding and this repo is my display of my journey on working tow
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3635-smallest-divisible-digit-product-ii](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3635-smallest-divisible-digit-product-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [4242-sum-of-gcd-of-formed-pairs](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/4242-sum-of-gcd-of-formed-pairs) |
@@ -342,8 +344,12 @@ I am just new to coding and this repo is my display of my journey on working tow
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1617-stone-game-iv) |
-## SpragueÃ¢ÂÂGrundy Theorem
+## SpragueÃÂ¢ÃÂÃÂGrundy Theorem
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1617-stone-game-iv) |
+## Linked List
+|  |
+| ------- |
+| [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 <!---LeetCode Topics End-->
