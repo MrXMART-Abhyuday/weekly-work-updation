@@ -124,6 +124,7 @@ I am just new to coding and this repo is my display of my journey on working tow
 ## Enumeration
 |  |
 | ------- |
+| [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1656-count-good-triplets](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1656-count-good-triplets) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3805-maximize-active-section-with-trade-i](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3805-maximize-active-section-with-trade-i) |
@@ -135,6 +136,7 @@ I am just new to coding and this repo is my display of my journey on working tow
 | [0567-permutation-in-string](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0567-permutation-in-string) |
 | [0768-partition-labels](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0768-partition-labels) |
 | [1319-unique-number-of-occurrences](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1319-unique-number-of-occurrences) |
+| [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1635-number-of-good-pairs](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1635-number-of-good-pairs) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3813-smallest-palindromic-rearrangement-ii](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3813-smallest-palindromic-rearrangement-ii) |
@@ -198,6 +200,7 @@ I am just new to coding and this repo is my display of my journey on working tow
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1205-defanging-an-ip-address](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1205-defanging-an-ip-address) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1651-shuffle-string](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1651-shuffle-string) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2128-reverse-prefix-of-word](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/2128-reverse-prefix-of-word) |
@@ -348,7 +351,7 @@ I am just new to coding and this repo is my display of my journey on working tow
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1617-stone-game-iv) |
-## SpragueÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂGrundy Theorem
+## SpragueÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂGrundy Theorem
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1617-stone-game-iv) |
