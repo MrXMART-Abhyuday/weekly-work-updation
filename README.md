@@ -60,6 +60,7 @@ I am just new to coding and this repo is my display of my journey on working tow
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1522-stone-game-iii](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1522-stone-game-iii) |
 | [1610-xor-operation-in-an-array](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1610-xor-operation-in-an-array) |
+| [1617-stone-game-iv](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1617-stone-game-iv) |
 | [1635-number-of-good-pairs](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1635-number-of-good-pairs) |
 | [1674-minimum-operations-to-make-array-equal](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1674-minimum-operations-to-make-array-equal) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1683-maximum-number-of-coins-you-can-get) |
@@ -175,6 +176,7 @@ I am just new to coding and this repo is my display of my journey on working tow
 | [0909-stone-game](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0909-stone-game) |
 | [1240-stone-game-ii](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1522-stone-game-iii) |
+| [1617-stone-game-iv](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1617-stone-game-iv) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1683-maximum-number-of-coins-you-can-get) |
 ## String
 |  |
@@ -231,6 +233,7 @@ I am just new to coding and this repo is my display of my journey on working tow
 | [0909-stone-game](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0909-stone-game) |
 | [1240-stone-game-ii](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1522-stone-game-iii) |
+| [1617-stone-game-iv](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1617-stone-game-iv) |
 ## Backtracking
 |  |
 | ------- |
@@ -327,8 +330,18 @@ I am just new to coding and this repo is my display of my journey on working tow
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1240-stone-game-ii) |
+| [1617-stone-game-iv](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1617-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1240-stone-game-ii) |
+| [1617-stone-game-iv](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1617-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1617-stone-game-iv](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1617-stone-game-iv) |
+## SpragueâGrundy Theorem
+|  |
+| ------- |
+| [1617-stone-game-iv](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1617-stone-game-iv) |
 <!---LeetCode Topics End-->
