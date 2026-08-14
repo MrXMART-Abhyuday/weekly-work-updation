@@ -21,4 +21,9 @@
 |  |
 | ------- |
 | [4087-maximum-substrings-with-distinct-start](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/4087-maximum-substrings-with-distinct-start) |
+| [4177-reverse-string-prefix](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/4177-reverse-string-prefix) |
+## Two Pointers
+|  |
+| ------- |
+| [4177-reverse-string-prefix](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/4177-reverse-string-prefix) |
 <!---LeetCode Topics End-->
