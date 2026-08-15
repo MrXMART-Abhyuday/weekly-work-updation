@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0074-search-a-2d-matrix) |
+| [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Binary Search
 |  |
 | ------- |
@@ -32,4 +33,8 @@
 |  |
 | ------- |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+## Bit Manipulation
+|  |
+| ------- |
+| [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 <!---LeetCode Topics End-->
