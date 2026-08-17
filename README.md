@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0074-search-a-2d-matrix) |
+| [1685-stone-game-v](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1685-stone-game-v) |
 | [2156-stone-game-ix](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/2156-stone-game-ix) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Binary Search
@@ -42,6 +43,7 @@
 ## Math
 |  |
 | ------- |
+| [1685-stone-game-v](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1685-stone-game-v) |
 | [2156-stone-game-ix](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/2156-stone-game-ix) |
 ## Greedy
 |  |
@@ -54,6 +56,7 @@
 ## Game Theory
 |  |
 | ------- |
+| [1685-stone-game-v](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1685-stone-game-v) |
 | [2156-stone-game-ix](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/2156-stone-game-ix) |
 ## Nim Game
 |  |
@@ -63,4 +66,8 @@
 |  |
 | ------- |
 | [2156-stone-game-ix](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/2156-stone-game-ix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1685-stone-game-v](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1685-stone-game-v) |
 <!---LeetCode Topics End-->
