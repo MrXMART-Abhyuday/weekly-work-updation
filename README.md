@@ -70,4 +70,18 @@
 |  |
 | ------- |
 | [1685-stone-game-v](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1685-stone-game-v) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0225-implement-stack-using-queues) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
