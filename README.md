@@ -70,4 +70,12 @@
 |  |
 | ------- |
 | [1685-stone-game-v](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1685-stone-game-v) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
