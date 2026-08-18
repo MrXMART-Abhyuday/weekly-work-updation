@@ -7,6 +7,7 @@
 | [0074-search-a-2d-matrix](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0074-search-a-2d-matrix) |
 | [1685-stone-game-v](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1685-stone-game-v) |
 | [2156-stone-game-ix](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/2156-stone-game-ix) |
+| [3705-find-the-largest-almost-missing-integer](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Binary Search
 |  |
@@ -19,6 +20,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [3705-find-the-largest-almost-missing-integer](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [4087-maximum-substrings-with-distinct-start](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/4087-maximum-substrings-with-distinct-start) |
 ## String
