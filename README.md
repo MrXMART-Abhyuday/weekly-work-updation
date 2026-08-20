@@ -8,6 +8,7 @@
 | [1487-cinema-seat-allocation](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1487-cinema-seat-allocation) |
 | [1685-stone-game-v](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1685-stone-game-v) |
 | [2156-stone-game-ix](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/2156-stone-game-ix) |
+| [3347-distribute-elements-into-two-arrays-i](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Binary Search
@@ -90,4 +91,8 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0225-implement-stack-using-queues) |
+## Simulation
+|  |
+| ------- |
+| [3347-distribute-elements-into-two-arrays-i](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3347-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
