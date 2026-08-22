@@ -54,6 +54,7 @@
 | ------- |
 | [1448-maximum-69-number](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1448-maximum-69-number) |
 | [1685-stone-game-v](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1685-stone-game-v) |
+| [2083-three-divisors](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/2083-three-divisors) |
 | [2156-stone-game-ix](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/2156-stone-game-ix) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
@@ -109,5 +110,18 @@
 ## Number Theory
 |  |
 | ------- |
+| [2083-three-divisors](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/2083-three-divisors) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
+## Enumeration
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/2083-three-divisors) |
+## Prime Factorization
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/2083-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [2083-three-divisors](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/2083-three-divisors) |
 <!---LeetCode Topics End-->
