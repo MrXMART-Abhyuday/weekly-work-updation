@@ -52,6 +52,7 @@
 ## Math
 |  |
 | ------- |
+| [1448-maximum-69-number](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1448-maximum-69-number) |
 | [1685-stone-game-v](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1685-stone-game-v) |
 | [2156-stone-game-ix](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/2156-stone-game-ix) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
@@ -59,6 +60,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1448-maximum-69-number](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1448-maximum-69-number) |
 | [1487-cinema-seat-allocation](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1487-cinema-seat-allocation) |
 | [2156-stone-game-ix](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/2156-stone-game-ix) |
 ## Minimax
