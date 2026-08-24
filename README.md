@@ -7,6 +7,7 @@
 | [0074-search-a-2d-matrix](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0074-search-a-2d-matrix) |
 | [1487-cinema-seat-allocation](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1487-cinema-seat-allocation) |
 | [1685-stone-game-v](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1685-stone-game-v) |
+| [2002-stone-game-viii](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/2002-stone-game-viii) |
 | [2156-stone-game-ix](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/2156-stone-game-ix) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
@@ -55,6 +56,7 @@
 | ------- |
 | [1448-maximum-69-number](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1448-maximum-69-number) |
 | [1685-stone-game-v](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1685-stone-game-v) |
+| [2002-stone-game-viii](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/2002-stone-game-viii) |
 | [2039-sum-game](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/2039-sum-game) |
 | [2083-three-divisors](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/2083-three-divisors) |
 | [2156-stone-game-ix](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/2156-stone-game-ix) |
@@ -70,11 +72,13 @@
 ## Minimax
 |  |
 | ------- |
+| [2002-stone-game-viii](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/2002-stone-game-viii) |
 | [2156-stone-game-ix](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/2156-stone-game-ix) |
 ## Game Theory
 |  |
 | ------- |
 | [1685-stone-game-v](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1685-stone-game-v) |
+| [2002-stone-game-viii](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/2002-stone-game-viii) |
 | [2039-sum-game](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/2039-sum-game) |
 | [2156-stone-game-ix](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/2156-stone-game-ix) |
 ## Nim Game
@@ -84,11 +88,13 @@
 ## Zero-Sum Game
 |  |
 | ------- |
+| [2002-stone-game-viii](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/2002-stone-game-viii) |
 | [2156-stone-game-ix](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/2156-stone-game-ix) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [1685-stone-game-v](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1685-stone-game-v) |
+| [2002-stone-game-viii](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/2002-stone-game-viii) |
 ## Stack
 |  |
 | ------- |
@@ -128,4 +134,8 @@
 |  |
 | ------- |
 | [2083-three-divisors](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/2083-three-divisors) |
+## Prefix Sum
+|  |
+| ------- |
+| [2002-stone-game-viii](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/2002-stone-game-viii) |
 <!---LeetCode Topics End-->
