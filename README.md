@@ -35,6 +35,7 @@
 |  |
 | ------- |
 | [2039-sum-game](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/2039-sum-game) |
+| [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [4087-maximum-substrings-with-distinct-start](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/4087-maximum-substrings-with-distinct-start) |
 | [4177-reverse-string-prefix](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/4177-reverse-string-prefix) |
@@ -140,4 +141,8 @@
 |  |
 | ------- |
 | [2002-stone-game-viii](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/2002-stone-game-viii) |
+## Sliding Window
+|  |
+| ------- |
+| [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 <!---LeetCode Topics End-->
