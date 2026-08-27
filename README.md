@@ -29,6 +29,7 @@
 | [1487-cinema-seat-allocation](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1487-cinema-seat-allocation) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4087-maximum-substrings-with-distinct-start](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/4087-maximum-substrings-with-distinct-start) |
 ## String
@@ -37,6 +38,7 @@
 | [2039-sum-game](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/2039-sum-game) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 | [4087-maximum-substrings-with-distinct-start](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/4087-maximum-substrings-with-distinct-start) |
 | [4177-reverse-string-prefix](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/4177-reverse-string-prefix) |
 ## Two Pointers
@@ -48,6 +50,7 @@
 | ------- |
 | [2156-stone-game-ix](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/2156-stone-game-ix) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -72,6 +75,7 @@
 | [1487-cinema-seat-allocation](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1487-cinema-seat-allocation) |
 | [2039-sum-game](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/2039-sum-game) |
 | [2156-stone-game-ix](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/2156-stone-game-ix) |
+| [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 ## Minimax
 |  |
 | ------- |
@@ -129,6 +133,7 @@
 |  |
 | ------- |
 | [2083-three-divisors](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/2083-three-divisors) |
+| [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 ## Prime Factorization
 |  |
 | ------- |
