@@ -12,6 +12,7 @@
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3705-find-the-largest-almost-missing-integer) |
+| [3870-minimum-moves-to-clean-the-classroom](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Binary Search
@@ -23,11 +24,13 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0074-search-a-2d-matrix) |
+| [3870-minimum-moves-to-clean-the-classroom](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 ## Hash Table
 |  |
 | ------- |
 | [1487-cinema-seat-allocation](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1487-cinema-seat-allocation) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3705-find-the-largest-almost-missing-integer) |
+| [3870-minimum-moves-to-clean-the-classroom](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/4080-smallest-missing-multiple-of-k) |
@@ -56,6 +59,7 @@
 | ------- |
 | [1487-cinema-seat-allocation](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1487-cinema-seat-allocation) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
+| [3870-minimum-moves-to-clean-the-classroom](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Math
 |  |
@@ -150,4 +154,8 @@
 |  |
 | ------- |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3870-minimum-moves-to-clean-the-classroom](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 <!---LeetCode Topics End-->
