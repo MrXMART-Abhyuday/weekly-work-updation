@@ -72,6 +72,7 @@
 | [2156-stone-game-ix](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/2156-stone-game-ix) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
+| [4245-count-commas-in-range](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/4245-count-commas-in-range) |
 ## Greedy
 |  |
 | ------- |
