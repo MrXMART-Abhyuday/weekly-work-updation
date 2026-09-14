@@ -64,6 +64,7 @@
 ## Math
 |  |
 | ------- |
+| [0866-rectangle-overlap](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0866-rectangle-overlap) |
 | [1448-maximum-69-number](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1448-maximum-69-number) |
 | [1685-stone-game-v](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1685-stone-game-v) |
 | [2002-stone-game-viii](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/2002-stone-game-viii) |
@@ -159,4 +160,8 @@
 |  |
 | ------- |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3870-minimum-moves-to-clean-the-classroom) |
+## Geometry
+|  |
+| ------- |
+| [0866-rectangle-overlap](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0866-rectangle-overlap) |
 <!---LeetCode Topics End-->
