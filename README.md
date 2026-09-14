@@ -12,6 +12,7 @@
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3705-find-the-largest-almost-missing-integer) |
+| [3799-unique-3-digit-even-numbers](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3799-unique-3-digit-even-numbers) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/4080-smallest-missing-multiple-of-k) |
@@ -30,6 +31,7 @@
 | ------- |
 | [1487-cinema-seat-allocation](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1487-cinema-seat-allocation) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3705-find-the-largest-almost-missing-integer) |
+| [3799-unique-3-digit-even-numbers](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3799-unique-3-digit-even-numbers) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
@@ -139,6 +141,7 @@
 |  |
 | ------- |
 | [2083-three-divisors](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/2083-three-divisors) |
+| [3799-unique-3-digit-even-numbers](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3799-unique-3-digit-even-numbers) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 ## Prime Factorization
 |  |
@@ -164,4 +167,8 @@
 |  |
 | ------- |
 | [0866-rectangle-overlap](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0866-rectangle-overlap) |
+## Recursion
+|  |
+| ------- |
+| [3799-unique-3-digit-even-numbers](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3799-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
