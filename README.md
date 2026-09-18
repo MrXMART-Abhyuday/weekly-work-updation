@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0074-search-a-2d-matrix) |
+| [0496-next-greater-element-i](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0496-next-greater-element-i) |
 | [1487-cinema-seat-allocation](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1487-cinema-seat-allocation) |
 | [1685-stone-game-v](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1685-stone-game-v) |
 | [2002-stone-game-viii](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/2002-stone-game-viii) |
@@ -29,6 +30,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0496-next-greater-element-i) |
 | [1487-cinema-seat-allocation](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1487-cinema-seat-allocation) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3799-unique-3-digit-even-numbers](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3799-unique-3-digit-even-numbers) |
@@ -115,6 +117,7 @@
 | ------- |
 | [0155-min-stack](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0225-implement-stack-using-queues) |
+| [0496-next-greater-element-i](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0496-next-greater-element-i) |
 ## Design
 |  |
 | ------- |
@@ -171,4 +174,8 @@
 |  |
 | ------- |
 | [3799-unique-3-digit-even-numbers](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3799-unique-3-digit-even-numbers) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
