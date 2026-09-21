@@ -44,6 +44,7 @@
 | ------- |
 | [2039-sum-game](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/2039-sum-game) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3811-reverse-degree-of-a-string](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3811-reverse-degree-of-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 | [4087-maximum-substrings-with-distinct-start](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/4087-maximum-substrings-with-distinct-start) |
@@ -131,6 +132,7 @@
 |  |
 | ------- |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3347-distribute-elements-into-two-arrays-i) |
+| [3811-reverse-degree-of-a-string](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3811-reverse-degree-of-a-string) |
 ## Combinatorics
 |  |
 | ------- |
