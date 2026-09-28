@@ -43,6 +43,7 @@
 ## String
 |  |
 | ------- |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2039-sum-game](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/2039-sum-game) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3811-reverse-degree-of-a-string](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3811-reverse-degree-of-a-string) |
@@ -122,6 +123,7 @@
 | [0155-min-stack](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0496-next-greater-element-i) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Design
 |  |
 | ------- |
@@ -183,4 +185,8 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0496-next-greater-element-i) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
