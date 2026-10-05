@@ -14,6 +14,7 @@
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3799-unique-3-digit-even-numbers](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3799-unique-3-digit-even-numbers) |
+| [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-minimum-moves-to-clean-the-classroom](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3870-minimum-moves-to-clean-the-classroom) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/4080-smallest-missing-multiple-of-k) |
@@ -42,6 +43,8 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0020-valid-parentheses) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2039-sum-game](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/2039-sum-game) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3811-reverse-degree-of-a-string](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3811-reverse-degree-of-a-string) |
@@ -77,8 +80,10 @@
 | [2083-three-divisors](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/2083-three-divisors) |
 | [2156-stone-game-ix](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/2156-stone-game-ix) |
 | [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
+| [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [3918-check-divisibility-by-digit-sum-and-product](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 | [4245-count-commas-in-range](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/4245-count-commas-in-range) |
+| [4248-count-commas-in-range-ii](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/4248-count-commas-in-range-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -116,9 +121,11 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0496-next-greater-element-i) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Design
 |  |
 | ------- |
@@ -180,4 +187,9 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0496-next-greater-element-i) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/0020-valid-parentheses) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/MrXMART-Abhyuday/weekly-work-updation/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
